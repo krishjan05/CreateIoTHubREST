@@ -1,0 +1,17 @@
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.exe
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.csprojAssemblyReference.cache
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.AssemblyInfoInputs.cache
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.AssemblyInfo.cs
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\Microsoft.Azure.Management.ResourceManager.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.csproj.CopyComplete
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.deps.json
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.runtimeconfig.json
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.runtimeconfig.dev.json
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\CreateIoTHubREST.pdb
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.dll
+C:\Users\kkanhaiya\source\repos\CreateIoTHubREST\CreateIoTHubREST\obj\Debug\netcoreapp3.1\CreateIoTHubREST.pdb
